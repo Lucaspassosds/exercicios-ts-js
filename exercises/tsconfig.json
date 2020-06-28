@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "lib": ["ESNext", "DOM"],
+      "target": "ES3",
+      "module": "CommonJS",
+      "sourceMap": true,
+      "outDir": "../dist",
+    }
+  }
